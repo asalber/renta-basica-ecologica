@@ -190,3 +190,6 @@ La Renta Básica Incondicional, como herramienta de redistribución de riqueza y
 :::{#refs}
 :::
 
+## Síguenos
+
+![QR](/img/qr.png){width=40%}
