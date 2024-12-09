@@ -1,0 +1,72 @@
+---
+title: La Renta Básica como herramienta para la transición ecosocial
+author: "Alfredo Sánchez Alberca (asalber@riseup.net)"
+date: 2024/12/09
+bibliography: references.bib
+#csl: apa.csl
+lang: es
+---
+
+## Introducción
+
+Ecologistas en acción toma sus principios de la ecología política y social, y por tanto, no solo nos preocupa el medio ambiente, sino también la justicia social.
+
+*¿Por qué cobra de nuevo fuerza el debate sobre la Renta Básica Universal?*
+
+Fundamentalmente por la crisis ambiental que vivimos y la crisis económica y social que se deriva de ella.
+
+-   Cambio climático provocado por la emisión de gases de efecto invernadero.
+-   Pérdida de biodiversidad.
+-   Contaminación de los ecosistemas.
+-   Agotamiento de recursos naturales.
+-   Desertificación.
+
+Todo ello ha puesto de manifiesto en las últimas décadas la insostenibilidad del modelo de desarrollo neoliberal capitalista. Un modelo que depende del crecimiento económico constante, que solo es posible en base a la explotación de los recursos naturales y la explotación de la mano de obra y la generación de un volumen de residuos que la Naturaleza no puede asimilar. Un modelo que, además, genera cada vez más desigualdad y precariedad.
+
+<iframe src="https://ourworldindata.org/grapher/economic-inequality-gini-index?tab=chart&amp;country=USA~ESP" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write">
+
+</iframe>
+
+<iframe src="https://ourworldindata.org/grapher/inequality-metrics-before-tax-wid?time=1980..latest&amp;country=~OWID_WRL&amp;tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write">
+</iframe>
+
+Desde Ecologistas en Acción venimos promoviendo desde hace décadas un cambio hacia un modelo económico y social que sea sostenible y justo. Un modelo que no dependa del crecimiento económico constante, sino que sea capaz de satisfacer las necesidades de todas las personas, con equidad y sin sobrepasar los límites ecológicos del planeta. La transición hacia ese modelo ecosocial cada vez es más urgente, y de no abordarse ya, las consecuencias serán catastróficas, pudiendo llegar a poner en peligro la supervivencia de muchas especies, entre ellas la humana.
+
+## La transición ecosocial
+
+La transición ecosocial es un proceso de transformación de la economía y la sociedad que tiene como objetivo la sostenibilidad y la justicia social. Se trata de un cambio profundo en el modelo de desarrollo, que implica una reorganización de la economía y la sociedad para que sean capaces de satisfacer las necesidades de todas las personas, sin sobrepasar los límites ecológicos del planeta.
+
+La transición ecosocial implica una serie de cambios en diferentes ámbitos:
+
+
+[@reyes]
+
+*¿Qué consecuencias tendría la Renta Básica Universal sobre el medio ambiente?*
+
+## Ventajas
+
+-   **Reducción de la pobreza**
+-   **Reducción de la desigualdad**
+-   **Reducción de la precariedad**
+-   **Reducción de la exclusión social**
+-   **Reducción de la economía sumergida**
+-   **Reducción de la burocracia**
+-   **Reconocimiento de las tareas de cuidado**
+
+## Inconvenientes
+
+-   **Aumento de la inflación**
+-   **Aumento del consumo**
+
+## Propuestas
+
+-   Definición de necesidades básicas y sus satisfactores deseables.
+-   Cubrir las necesidades sociales que necesitamos satisfacer mediante la actividad económica sin sobrepasar los límites ecológicos.
+-   El objetivo no es crecer, sino redistribuir.
+-   La RBI no comulga con la concepción productivista de la economía.
+-   La reducción de la jornada laboral debe traducirse en una reducción de la producción.
+-   Reducción de la explotación de los recursos naturales y la degradación de los ecosistemas, sobre todo en los países del Sur Global donde se realizan estas prácticas para subsistir.
+-   Relocalización de la economía.
+-   Uso sostenible de la parte comunitaria de las RBIs (construcción de recursos colectivos como huerto urbanos, comunidades energéticas, etc.)
+-   
+

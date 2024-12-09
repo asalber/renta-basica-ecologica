@@ -1,0 +1,27 @@
+project:
+  title: "La Renta Básica en la Transición Ecosocial"
+  output-dir: "docs"
+
+execute: 
+  echo: true
+  cache: true
+  freeze: auto
+
+format:
+  revealjs:
+    theme: [black,custom.scss]
+    logo: img/logos/logo-ecologistas.png
+    navigation-mode: vertical
+    # footer: <https://aprendeconalf.es/analisis-manual>
+    callout-appearance: simple
+    #incremental: true
+    toc: true
+    toc-depth: 1
+    chalkboard: true
+    menu: true
+    slide-number: c/t
+    transition: convex
+    transition-speed: fast
+    default-image-extension: svg
+    template-partials:
+      - title-slide.html
