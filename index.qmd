@@ -16,7 +16,7 @@ nocite: |
 
 Ecologistas en acción toma sus principios de la ecología política y social, y por tanto, no solo nos preocupa el medio ambiente, sino también la justicia social.
 
-## Esta crisis está provocada del modelo de desarrollo neoliberal capitalista
+## El crecimiento ilimitado en el sistema capitalista
 
 - El sistema capitalista se basa en la creación y acumulación de riqueza (fundamentalmente material).
 - Requiere, por tanto, de un crecimiento económico constante a través del incremento de la productividad de bienes y servicios.
@@ -35,7 +35,7 @@ Ecologistas en acción toma sus principios de la ecología política y social, y
 ## El agotamiento de recursos naturales
 
 - El crecimiento del sistema capitalista cada vez depende menos de la mano de obra (tecnificación y automatización de procesos productivos) pero cada vez depende más de los recursos naturales. La extracción de materias primas se ha incrementado exponencialmente.
-- Este crecimiento continuo, choca con los límites biofísicos del planeta. El agotamiento de los combustibles fósiles y de algunos materiales estratégicos (litio, cobalto, cobre, fostatos, etc.) está empezando a ralentizar el metabolismo del sistema.
+- Este crecimiento continuo, choca con las leyes de la termodinámica y límites biofísicos del planeta. El agotamiento de los combustibles fósiles y de algunos materiales estratégicos (litio, cobalto, cobre, fostatos, etc.) está empezando a ralentizar el metabolismo del sistema.
 
 ---
 
@@ -53,9 +53,9 @@ Ecologistas en acción toma sus principios de la ecología política y social, y
 - Esto ha provocado una profunda crisis medioambiental:
 
   - Cambio climático provocado por la emisión de gases de efecto invernadero.
-  - Pérdida de biodiversidad.
   - Contaminación de los ecosistemas.
   - Desertificación.
+  - Pérdida de biodiversidad.
 
 > ¡ESTA CRISIS AMENAZA LA VIDA EN EL PLANETA!
 
@@ -65,17 +65,26 @@ Ecologistas en acción toma sus principios de la ecología política y social, y
 - Un modelo que no dependa del crecimiento económico ilimitado, sino que sea capaz de satisfacer las necesidades de todas las personas, con equidad y sin sobrepasar los límites ecológicos del planeta.
 
 ## La Transición Ecosocial
+El camino hacia ese nuevo modelo económico y social, que hemos llamado _Transición Ecosocial_, implica profundos cambios en casi todos los ámbitos de la vida:
 
-La transición hacia ese nuevo modelo económico y social, que hemos llamado _Transición Ecosocial_, implica profundos cambios en casi todos los ámbitos de la vida:
+::: {.columns}
+::: {.column width="50%"}
 
 -  Producción
 -  Consumo
 -  Trabajo
 -  Energético
+:::
+
+::: {.column width="50%"}
 -  Alimentario
 -  Movilidad
 -  Residuos
 -  Gobernanza
+:::
+:::
+
+> ¡El resultado de la transición dependerá de lo que hagamos ahora y en los próximo años!
 
 ## La importancia de una Renta Básica Incondicional en la Transición Ecosocial
 
@@ -87,6 +96,8 @@ La Renta Básica Incondicional, como herramienta de redistribución de riqueza y
 
 - Modelo de producción dentro de los límites ecológicos del planeta. 
 - Decrecimiento de sectores productivos más contaminantes y dependientes de recursos naturales: Automoción, aviación, turismo, textil, etc.
+- Crecimiento de sectores más sostenibles (energías renovables, agricultura, reciclado, rehabilitación de edificios, etc.)
+- Nacionalización o creación de empresas públicas en sectores estratégicos (energía, transporte, comunicaciones, etc.)
 
 ---
 
@@ -97,7 +108,7 @@ La Renta Básica Incondicional, como herramienta de redistribución de riqueza y
 ### ¿Qué aporta la Renta Básica?
 
 - Soporte para las personas que pierdan su empleo en estos sectores.
-- Facilita la transición hacia otros sectores más sostenibles. Mucha gente es consciente de la insostenibilidad de su trabajo, pero no puede dejarlo por miedo a no poder cubrir sus necesidades básicas. Ejemplo: Minería, automoción, industria armamentística, etc.
+- Facilita la transición hacia otros sectores más sostenibles. Mucha gente es consciente de la insostenibilidad de su trabajo, pero no puede dejarlo por miedo a no poder cubrir sus necesidades básicas. Ejemplo: Deforestación, minería, automoción, industria armamentística, etc.
 - ¿Cómo cubrir los trabajos socialmente necesarios (agricultura, cuidados, etc)? 
   - Necesidad de que la RB tenga una dimensión comunitaria, como por ejemplo la Renta Básica de las Iguales (Baladre) que propone un reparto de la renta básica en una parte individual y otra comunitaria.
   - Complementar con trabajo garantizado.
@@ -106,10 +117,11 @@ La Renta Básica Incondicional, como herramienta de redistribución de riqueza y
 
 - Reducción del consumo de bienes y servicios no esenciales.
 - Satisfacción de las necesidades materiales básicas en sociedades _con mercados_ y no _de mercado_.
-- Consumo de proximidad y de temporada. Reducción de la huella del carbono de los productos que consumimos.
+- Consumo responsable de proximidad y de temporada. Reducción de la huella del carbono de los productos que consumimos.
 
 ### ¿Qué aporta la Renta Básica?
 
+- Capacidad para satisfacer las necesidades básicas materiales de toda la población.
 - ¿Cómo hacer para que la RB no se convierta en un estímulo al consumo? ¿o que no se dirija a bienes y servicios insostenibles?
   - Educación para el consumo responsable.
   - Regulación publicitaria.
@@ -184,6 +196,9 @@ La Renta Básica Incondicional, como herramienta de redistribución de riqueza y
 - Más tiempo para la participación política y social.
 - Simplificación de la administración y reducción de la burocracia.
 
+## Conclusiones
+
+La renta básica, especialmente aquellos modelos que introducen la dimensión comunitaria como la Renta Básica de las Iguales,  puede ser una herramienta muy útil en la transición ecosocial hacia un nuevo modelo socioeconómico que sea ambientalmente sostenible y socialmente justo, pero debe acompañarse de otras medidas complementarias como el reparto del trabajo o la regulación de los precios de los bienes y servicios básicos para garantizar su éxito.
 
 ## Referencias
 
